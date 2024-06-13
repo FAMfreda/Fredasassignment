@@ -1,0 +1,29 @@
+
+
+.gridimages img{
+gap: 30px;
+width: 400px;
+}
+
+.gridmain{
+    display: flex;
+    justify-content: row;
+    
+}
+
+.gridtext{
+    display: flex;
+    justify-content: row;
+    justify-content: center;
+
+}
+
+.imagetop{
+    padding-top: 20px;
+}
+
+.visualtext{
+    color: rgb(230, 230, 224);
+    background-color: rgb(202, 135, 197);
+    font-size: 50px;
+}

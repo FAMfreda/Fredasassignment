@@ -57,7 +57,7 @@ body{
 }
 
 .backimage{
-    height: 100vh;
+    height: 80vh;
     width: 100vw;
     position: relative;
 }
@@ -80,7 +80,7 @@ body{
 
 
 #subtext2{
-    font-size: 250px;
+    font-size: 100px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
